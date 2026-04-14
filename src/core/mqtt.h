@@ -2,8 +2,9 @@
 #define mqtt_h
 #include "options.h"
 #ifdef MQTT_ROOT_TOPIC
-//#if __has_include("../../mqttoptions.h")
-//#include "../../mqttoptions.h"
+#if __has_include("../../mqttoptions.h")
+#include "../../mqttoptions.h"
+#endif
 #include <AsyncMqttClient.h>
 
 
