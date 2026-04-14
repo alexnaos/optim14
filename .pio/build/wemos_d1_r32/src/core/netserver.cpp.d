@@ -285,7 +285,7 @@
  src/locale/displayL10n_ru.h src/core/network.h src/core/mqtt.h \
  .pio/libdeps/wemos_d1_r32/AsyncMqttClient/src/AsyncMqttClient.h \
  .pio/libdeps/wemos_d1_r32/AsyncMqttClient/src/AsyncMqttClient.hpp \
- .pio/libdeps/wemos_d1_r32/AsyncTCP@src-7fb2940bccb78b8d2de6915ae328b7fc/src/AsyncTCP.h \
+ src/AsyncWebServer/AsyncTCP.h \
  .pio/libdeps/wemos_d1_r32/AsyncMqttClient/src/AsyncMqttClient/Flags.hpp \
  .pio/libdeps/wemos_d1_r32/AsyncMqttClient/src/AsyncMqttClient/ParsingInformation.hpp \
  .pio/libdeps/wemos_d1_r32/AsyncMqttClient/src/AsyncMqttClient/MessageProperties.hpp \

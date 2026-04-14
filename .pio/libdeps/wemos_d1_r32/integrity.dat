@@ -1,7 +1,6 @@
-adafruit/Adafruit GFX Library
 adafruit/Adafruit ILI9341
-XPT2046_Touchscreen
 https://github.com/schreibfaul1/ESP32-audioI2S.git#3.0.8
+XPT2046_Touchscreen
+marvinroger/AsyncMqttClient
 mathertel/OneButton
-https://github.com/me-no-dev/AsyncTCP.git
-https://github.com/marvinroger/async-mqtt-client.git
+adafruit/Adafruit GFX Library

@@ -81,12 +81,6 @@ void mqttPublishVolume(){
   }
 }
 
-void onMqttDisconnect(AsyncMqttClientDisconnectReason reason) {
-  if (WiFi.isConnected()) {
-    xTimerStart(mqttReconnectTimer, 0);
-  }
-}
-
 void onMqttMessage(char* topic, char* payload, AsyncMqttClientMessageProperties properties, size_t len, size_t index, size_t total) {
   if (len == 0) return;
   memset(buf, 0, 20);

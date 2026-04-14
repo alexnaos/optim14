@@ -1,1 +1,1 @@
-Nothing needs to be added to .gitignore since the changes only involve source code files (.h header files) and there are no build artifacts, dependencies, or temporary files in the change list.
+Nothing should be ignored in this case, as only a source code file (`src/core/mqtt.cpp`) was modified and there are no build artifacts, dependencies, or temporary files in the changes.
