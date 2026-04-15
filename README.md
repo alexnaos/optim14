@@ -1,5 +1,7 @@
 # yoRadio.vs
 
+Этот работает с мйтт
+
 Features:
   * Platformio enabled
   * Logarithmics volume change
@@ -9,3 +11,5 @@ Features:
 
 The pins map for esp32-wroom (thanks for good picture from https://dzen.ru/a/Y774Df-le2kG3b99):
 ![Pinount](https://github.com/ichebyki/yoRadio.vs/blob/main/pins.png)
+
+
