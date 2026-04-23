@@ -4,7 +4,7 @@
 #define MQTT_PASS ""
 
 
-#define MQTT_ROOT_TOPIC  "Slobodaradio/100"
+#define MQTT_ROOT_TOPIC  "radioBan/100"
 
 /*
 Topics:
