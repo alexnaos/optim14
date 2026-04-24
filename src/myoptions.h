@@ -17,7 +17,9 @@
 
 /* Дополнительные опции */
 #define VOLUME_STEP             5
-#define BUFLEN                  190
+//#define BUFLEN                  32
+#define BUFLEN 190 
+
 // Параметр bitrate_full удален, так как он вызывает ошибку компиляции в этой версии
 #define VOLUME_LOGARITHMIC      true 
 
