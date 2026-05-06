@@ -246,8 +246,9 @@ The connection tables are located here https://github.com/e2002/yoradio#connecti
 
 /*        ESP DEVBOARD            */
 #ifndef LED_BUILTIN
-  #define LED_BUILTIN   255
+  //#define LED_BUILTIN 255
 #endif
+
 
 /*        Other settings. You can overwrite them in the myoptions.h file        */
 #ifndef MUTE_PIN
